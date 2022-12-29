@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kenseitehdev
 - 👀 I’m interested in python js and C/C++ -- really interested in web development and console tools/apis
-- 🌱 I’m currently learning vue.js
+- 🌱 I’m currently learning react.js
 - 💞️ I’m looking to collaborate on ..not sure yet but always open to projects with others.
 - 📫 How to reach me twitter-- @tehkensei
 
