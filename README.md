@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning python, react.js and C
 - 💞️ I’m looking to collaborate on ..not sure yet but always open to projects with others.
 - 📫 How to reach me:
--        twitter.com -- @tehkensei
--        agora.app -- @kensei
+  -        twitter.com -- @tehkensei
+  -        agora.app -- @kensei
 
 <!---
 kenseitehdev/kenseitehdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
