@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on ..not sure yet but always open to projects with others.
 - 📫 How to reach me:
        twitter.com -- @tehkensei
+  
          theagora.app -- @kensei
 
 <!---
