@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @kenseitehdev
-- 👀 I’m interested in python, django, javascript, vue.js, c,c++, data modeling for nlp -- really interested in web development and lexical analysis of written and programming languages and looking for more to get into 
-- 🌱 I’m currently learning python, vue.js and C
-- 💞️ I’m looking to collaborate on ..not sure yet but always open to projects with others.
+- 👀 I’m interested in C, C++. lua, luaX
+- 🌱 I’m currently learning working on luaX, my superset language of lua and its ecosystem
+- 💞️ I’m looking to collaborate on system level projects
 - 📫 How to reach me:
   -        twitter.com -- @tehkensei
-  -        agora.app -- @kensei
+  -        tehkensei@gmail.com
 
 <!---
 kenseitehdev/kenseitehdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
